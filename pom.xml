@@ -16,11 +16,7 @@
     		  <url>http://54.197.82.186:8081/repository/maven-snapshots/</url>
    		</snapshotRepository>
 	</distributionManagement>
-		<properties>
-		<sonar.host.url>http://100.24.237.243:9000</sonar.host.url>
-		<sonar.login>e99708d5d6aee7ee4cebe8abf468de0cc262190a</sonar.login>
-	</properties>
-	
+
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
@@ -33,9 +29,9 @@
 	<build>
 		<plugins>
 			 <plugin>
-                            <artifactId>maven-war-plugin</artifactId>
-                            <version>3.2.2</version>
-                        </plugin>
+                    <artifactId>maven-war-plugin</artifactId>
+                    <version>3.2.2</version>
+                </plugin>
 			
 		</plugins>
 	</build>
