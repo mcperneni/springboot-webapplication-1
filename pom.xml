@@ -51,7 +51,7 @@
 					</executions>
 					<configuration>
 						<serverId>nexus</serverId>
-						<nexusUrl>http://54.163.63.178:8081/repository/test/</nexusUrl>
+						<nexusUrl>http://54.197.82.186:8081/repository/maven-snapshots/</nexusUrl>
 						<skipStaging>true</skipStaging>
 					</configuration>
 			</plugin>
