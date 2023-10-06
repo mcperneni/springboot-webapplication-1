@@ -13,6 +13,11 @@
     		  <url>http://54.163.63.178:8081/repository/test/snapshots</url>
    		</snapshotRepository>
 	</distributionManagement>
+    <properties>
+                <!-- Optional URL to server. Default value is http://localhost:9000 -->
+                <sonar.host.url>http://ec2-54-209-85-156.compute-1.amazonaws.com:9000</sonar.host.url>
+				<sonar.login>216f6d28cecb7217fbc46de70c22e5929423d270</sonar.login>
+            </properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
