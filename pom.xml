@@ -9,8 +9,8 @@
 	<url>http://maven.apache.org</url>
 	<distributionManagement>
 		<snapshotRepository>
-    		  <id>nexus-snapshots</id>
-    		  <url>http://54.163.63.178:8081/repository/test/snapshots</url>
+    		  <id>maven-snapshots</id>
+    		  <url>http://ec2-54-152-148-92.compute-1.amazonaws.com:8081/repository/maven-snapshots/</url>
    		</snapshotRepository>
 	</distributionManagement>
     <properties>
