@@ -18,8 +18,8 @@
 	</distributionManagement>
 	  <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
-                <sonar.host.url>http://54.158.182.147:9000</sonar.host.url>
-				<sonar.login>e6040174262f7c3814a82f7b51a34ed68af8e61e</sonar.login>
+		<sonar.host.url>http://ec2-100-26-133-25.compute-1.amazonaws.com:9000/</sonar.host.url>
+		<sonar.login>4b2eda5e9b61c99d3737e45beace2ba1590d0c6d</sonar.login>
 				<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
             </properties>
 
