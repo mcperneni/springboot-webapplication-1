@@ -20,7 +20,7 @@
     cd /opt/tomcat/bin
     ./startup.sh
   
-  Copy springboot artifact to Webapps Directory
+  #Copy springboot artifact to Webapps Directory
     
     cd springboot-webapplication
     cp target/mavewebappdemo-2.0.0-SNAPSHOT.war /opt/tomcat/webapps/mavewebappdemo.war
