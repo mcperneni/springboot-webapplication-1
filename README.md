@@ -25,7 +25,7 @@
     cd springboot-webapplication
     cp target/mavewebappdemo-2.0.0-SNAPSHOT.war /opt/tomcat/webapps/mavewebappdemo.war
 
-# Check output of application
+## Check output of application
   ![image](https://user-images.githubusercontent.com/58024415/120204004-f5f5f100-c245-11eb-8c4b-4c1128434d8e.png)
 
 
