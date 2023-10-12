@@ -30,7 +30,7 @@
 
 
 ## Docker build
-```bash
+``bash
 docker build -t tomcatdeploy:v1 .
 docker run --name tomcatdeploy-container -p 8080:8080 -d tomcatdeploy:v1
 ```
