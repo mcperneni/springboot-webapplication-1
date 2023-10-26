@@ -16,7 +16,7 @@
     <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>http://ec2-54-160-69-135.compute-1.amazonaws.com:9000</sonar.host.url>
-				<sonar.login>b9b7d3242b2588ff187df03661c629160c1645e3</sonar.login>
+				<sonar.login>f68c4f9436ca8db67980430a822688a0350e7a25</sonar.login>
             </properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
@@ -35,7 +35,7 @@
 			<plugin>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.9.1.2184</version>
+    <version>3.7.0.1746</version>
                 </plugin>
 			
 		</plugins>
