@@ -15,8 +15,8 @@
 	</distributionManagement>
     <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
-                <sonar.host.url>http://ec2-100-26-136-140.compute-1.amazonaws.com:9000</sonar.host.url>
-				<sonar.login>86b0add61393dddac4c86d010b2cf80b7790c7a9</sonar.login>
+                <sonar.host.url>http://100.26.236.148:9000/</sonar.host.url>
+				<sonar.login>1e91b8890f1d1ad853c85f49d52ea4a4b8ab21f7</sonar.login>
             </properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
