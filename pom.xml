@@ -16,6 +16,7 @@
 <properties>
   <sonar.organization>meenasonar</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+ <sonar.login>2ff9c0c9309f464de058adfcd597709a854fc157</sonar.login>
 </properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
