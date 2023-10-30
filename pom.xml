@@ -13,11 +13,10 @@
     		  <url>http://ec2-44-201-151-220.compute-1.amazonaws.com:8081/repository/maven-snapshots/</url>
    		</snapshotRepository>
 	</distributionManagement>
-    <properties>
-                <!-- Optional URL to server. Default value is http://localhost:9000 -->
-                <sonar.host.url>http://100.26.236.148:9000/</sonar.host.url>
-				<sonar.login>1e91b8890f1d1ad853c85f49d52ea4a4b8ab21f7</sonar.login>
-            </properties>
+<properties>
+  <sonar.organization>meenasonar</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
