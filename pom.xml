@@ -14,7 +14,7 @@
    		</snapshotRepository>
 	</distributionManagement>
 <properties>
-  <sonar.organization>meenasonar</sonar.organization>
+  
   <sonar.host.url>http://ec2-3-82-240-203.compute-1.amazonaws.com:9000</sonar.host.url>
  <sonar.login>sqp_5c8d44e998168ac0bfd99b917c809c0914c5b5df</sonar.login>
 </properties>
