@@ -15,9 +15,9 @@
 	</distributionManagement>
 <properties>
   
-  <sonar.host.url>http://ec2-34-229-186-252.compute-1.amazonaws.com:9000</sonar.host.url>
+  <sonar.host.url>http://ec2-44-208-36-197.compute-1.amazonaws.com:9000</sonar.host.url>
 <sonar.projectKey>springboot-webapplication-1</sonar.projectKey>
- <sonar.login>sqp_0776f6fe2fdcb670f2a1621b0ceaae23e2d054a6</sonar.login>
+ <sonar.login>9957a393058858d3f940c962d1416d2ab9f4dab5</sonar.login>
 </properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
